@@ -1,6 +1,6 @@
 import os
 
-LINE = "You left it on the floor. In dog law, floor means mine. I didn't eat your homework — I legally repossessed my property."
+LINE = "Your honour, the homework smelled of bacon grease and poor supervision. It was on the floor, and under dog law the floor is a buffet with no cover charge. I plead adorable."
 
 def main():
     os.makedirs("/output", exist_ok=True)
